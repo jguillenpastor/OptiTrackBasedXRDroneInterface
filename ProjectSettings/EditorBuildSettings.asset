@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Prueba.unity
+    guid: c32ed5df48648b54e9c038f6110325d6
+  - enabled: 1
+    path: Assets/Scenes/AirportCircle.unity
+    guid: edfa367742cf4e4439372e87ce541f19
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2863a42b52be4ef4c91a8d0539469bcf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1b0c107cb226de1499fb0293a089e2e2,
+      type: 2}

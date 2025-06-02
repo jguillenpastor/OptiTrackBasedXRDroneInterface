@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\jorge\\projects\\XRMetaDrone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|c:\\jorge\\projects\\xrmetadrone\\assets\\scripts\\ros\\dronepositionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ros\\dronepositionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|C:\\jorge\\projects\\XRMetaDrone\\assets\\scripts\\infodisplay\\floatingdronelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infodisplay\\floatingdronelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|c:\\jorge\\projects\\xrmetadrone\\assets\\scripts\\infodisplay\\dronehighlightrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infodisplay\\dronehighlightrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|c:\\jorge\\projects\\xrmetadrone\\assets\\scripts\\ros\\vrpnposesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ros\\vrpnposesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|C:\\jorge\\projects\\XRMetaDrone\\assets\\scripts\\ros\\waypointsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ros\\waypointsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F2FD-6429-7501-E1CA-366A8439B238}|Unity.Robotics.ROSTCPConnector.csproj|c:\\jorge\\programs2deletelater\\unity\\ros-tcp-connector\\com.unity.robotics.ros-tcp-connector\\runtime\\tcpconnector\\rosconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|C:\\jorge\\projects\\XRMetaDrone\\assets\\scripts\\unitylogtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitylogtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|C:\\jorge\\projects\\XRMetaDrone\\assets\\scripts\\ros\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ros\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|C:\\jorge\\projects\\XRMetaDrone\\assets\\scripts\\ros\\dronesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ros\\dronesubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|C:\\jorge\\projects\\XRMetaDrone\\assets\\scripts\\targethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F7A6AA-CCCD-0A15-8FA6-06811325C06B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FloatingDroneLabel.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\InfoDisplay\\FloatingDroneLabel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InfoDisplay\\FloatingDroneLabel.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\InfoDisplay\\FloatingDroneLabel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InfoDisplay\\FloatingDroneLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:50:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DroneHighlightRectangle.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\InfoDisplay\\DroneHighlightRectangle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InfoDisplay\\DroneHighlightRectangle.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\InfoDisplay\\DroneHighlightRectangle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InfoDisplay\\DroneHighlightRectangle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:30:41.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DronePositionLogger.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\DronePositionLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ROS\\DronePositionLogger.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\DronePositionLogger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ROS\\DronePositionLogger.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:29:55.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnityLogToText.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\UnityLogToText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnityLogToText.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\UnityLogToText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnityLogToText.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:28:02.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WaypointSubscriber.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\WaypointSubscriber.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ROS\\WaypointSubscriber.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\WaypointSubscriber.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ROS\\WaypointSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:36:36.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ROSConnection.cs",
+              "DocumentMoniker": "C:\\jorge\\Programs2DeleteLater\\Unity\\ROS-TCP-Connector\\com.unity.robotics.ros-tcp-connector\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\Programs2DeleteLater\\Unity\\ROS-TCP-Connector\\com.unity.robotics.ros-tcp-connector\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "ToolTip": "C:\\jorge\\Programs2DeleteLater\\Unity\\ROS-TCP-Connector\\com.unity.robotics.ros-tcp-connector\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "RelativeToolTip": "..\\..\\Programs2DeleteLater\\Unity\\ROS-TCP-Connector\\com.unity.robotics.ros-tcp-connector\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "ViewState": "AgIAAHkDAAAAAAAAAAAlwFYDAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:33:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TargetHandler.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\TargetHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetHandler.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\TargetHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:31:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VRPNPoseSubscriber.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\VRPNPoseSubscriber.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ROS\\VRPNPoseSubscriber.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\VRPNPoseSubscriber.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ROS\\VRPNPoseSubscriber.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T07:39:06.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DroneMovement.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\DroneMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ROS\\DroneMovement.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\DroneMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ROS\\DroneMovement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:38:09.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DroneSubscriber.cs",
+              "DocumentMoniker": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\DroneSubscriber.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ROS\\DroneSubscriber.cs",
+              "ToolTip": "C:\\jorge\\projects\\XRMetaDrone\\Assets\\Scripts\\ROS\\DroneSubscriber.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ROS\\DroneSubscriber.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T08:27:24.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

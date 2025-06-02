@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|c:\\jorge\\unityprojects\\optitrackbasedxrdroneinterface\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|c:\\jorge\\unityprojects\\optitrackbasedxrdroneinterface\\assets\\scripts\\unitylogtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitylogtotext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|c:\\jorge\\unityprojects\\optitrackbasedxrdroneinterface\\assets\\scripts\\targethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|c:\\jorge\\unityprojects\\optitrackbasedxrdroneinterface\\assets\\scripts\\scalecylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CAF4D6-0B97-36CF-7200-48C7915E0D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scalecylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TargetHandler.cs",
+              "DocumentMoniker": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\TargetHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetHandler.cs",
+              "ToolTip": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\TargetHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:05:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaleCylinder.cs",
+              "DocumentMoniker": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\ScaleCylinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScaleCylinder.cs",
+              "ToolTip": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\ScaleCylinder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScaleCylinder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:05:20.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityLogToText.cs",
+              "DocumentMoniker": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\UnityLogToText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnityLogToText.cs",
+              "ToolTip": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\UnityLogToText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnityLogToText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:05:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\jorge\\UnityProjects\\OptiTrackBasedXRDroneInterface\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:05:06.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
