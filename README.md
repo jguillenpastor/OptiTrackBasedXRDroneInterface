@@ -1,6 +1,10 @@
 # OptiTrackBasedXRDroneInterface
 
-This is a Unity project designed to integrate drones with XR (Extended Reality) interfaces using the Quest3 and OptiTrack motion capture system.
+This is a Unity project designed to integrate drones with XR (Extended Reality) interfaces using the Quest3 and OptiTrack motion capture system. This repository correspond to the Indoor OptiTrack-Based XR-Drone Interface developed for the master thesis **Robust In-and Outdoor Drone Control and Path Visualization via XR Interface**. The outdoor interface source code can also be find here: https://github.com/jguillenpastor/ArUcoBasedXRDroneInterface.git
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/IehHCEsYN-M/0.jpg)](https://www.youtube.com/watch?v=IehHCEsYN-M)
 
 ## 📦 Project Structure
 
